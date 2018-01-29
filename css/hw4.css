@@ -1,0 +1,20 @@
+body {
+	background-color:beige;
+}
+
+p#intro:first-letter {
+	font-size: 200%;}
+
+
+h2 {
+	color:DarkCyan;
+	font-family: Times New Roman;
+}
+
+
+
+fieldset.note {
+	color: red;
+	font-family: verdana;
+	font-weight: bold;
+}
